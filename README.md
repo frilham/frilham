@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- I’m currently study at Informatics engineer at Telkom University
-- I'm currently intern at Motion Lab at Digital Marketing departement
-- I'm currently intern at BPM (Badan Perwakilan Mahasiswa) or Student Representative council at S1 Informatics Telkom University
-- 📫 How to reach me: @milhamhkm
+- I’m currently fresh graduate from Informatics engineer at Telkom University
+- ex: data scientist & analyst at Pusat sumberdaya mineral batubara dan panasbumi (PSDMBP) under Indonesia energy and mineral ministry
+- 📫 How to reach me: milhamhkm@gmail.com
 
 
 funfact: sometimes anti-social sometimes social butterfly
